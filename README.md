@@ -31,15 +31,15 @@ python --version
 ### Modules
 
 The following modules are required for the installation of this project:
-
-| Module Name | Version |
-|---|---|---|
-| json| 2.0.9| 
-| spacy|3.6.0|
-| requests|2.28.1|
-| lyricsgenius|3.0.1|
-| configparser|5.3.0|
-| re          |2.2.1|
+<br>
+| Module | Version |
+|---|---|
+json |      2.0.9  |
+spacy|      3.6.0  |
+requests|   2.28.1 |  
+lyricsgenius|3.0.1 |  
+configparser|5.3.0 |
+re|          2.2.1 |
 
 ## Acknowledgments
 
